@@ -1,10 +1,14 @@
-- 👋 Hi, I’m @Shabyashaachi(Sourajyoti paul)
-- 👀 I’m interested in Mern stack development ,Cybersecurity & Ehical Hacking
-- 🌱 I’m currently learning Webpentesting , Mern stack developement
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me .ns.   sourajyoti.nehu.ac@gmail.com
-- 😄 Pronouns: ... Hacker, Developer
-- ⚡ Fun fact: ...Devil working for development .
+👋 Hi, I’m @Shabyashaachi (Sourajyoti Paul)
+
+* 👀 I’m interested in Cybersecurity, SOC Operations, AWS Security, and Ethical Hacking
+* 🌱 I’m currently learning Threat Hunting, DFIR, Python Scripting, and Cloud Security
+* 💞️ I’m looking to collaborate on security automation, detection scripts, and Blue Team projects
+* 📫 How to reach me: (mailto:sourajyoti.nehu.ac@gmail.com)
+* 😄 Pronouns: Analyst, Defender
+* ⚡ Fun fact: I break things only to secure them better.
+
+---
+
 
 <!---
 Shabyashaachi/Shabyashaachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
