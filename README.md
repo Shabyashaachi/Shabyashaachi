@@ -1,4 +1,4 @@
-👋 Hi, I’m @Shabyashaachi (Sourajyoti Paul)
+👋 Hi, I’m  Sourajyoti Paul
 
 * 👀 I’m interested in Cybersecurity, SOC Operations, AWS Security, and Ethical Hacking
 * 🌱 I’m currently learning Threat Hunting, DFIR, Python Scripting, and Cloud Security
